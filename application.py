@@ -13,7 +13,7 @@ section_style_short = {"maxHeight": "60vh", "overflow": "auto"}
 app.layout = html.Div(
     [
         dbc.NavbarSimple(
-            brand="CFX Spaces",
+            brand="Demo Spaces",
             brand_href="#",
             color="secondary",
             dark=False,
@@ -24,7 +24,7 @@ app.layout = html.Div(
                     [
                         dbc.Col(
                             [
-                                # html.H1("CFX Spaces"),
+                                # html.H1("Demo Spaces"),
                                 *[
                                     dbc.Row(
                                         dbc.Col(
