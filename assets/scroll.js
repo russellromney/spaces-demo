@@ -1,3 +1,6 @@
+// edited from:
+// https://stackoverflow.com/a/18614545
+
 var lastMessage = ""
 
 function updateScroll(){
